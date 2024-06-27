@@ -15,9 +15,6 @@ Travel Plan Management System
 - Find a cost efficient plan\
 ![finding a custom plan ss](https://github.com/sunilkmr210/travel_plan__/blob/master/Images/booking_custom_plan.png?raw=true)
 
-- Make a booking\
-![book plan/ package ss](https://github.com/sunilkmr210/travel_plan__/blob/master/Images/making_booking.png?raw=true)
-
 # Running application
 Compiling the application
 
